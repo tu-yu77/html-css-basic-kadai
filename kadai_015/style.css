@@ -1,23 +1,29 @@
 body {
-    font-family: "Arial", "Meiryo", sans-serif;
     text-align: center;
+}
+body {
+    font-family: "Arial","Meiryo","sans-serif";
+}
+
+html {
+    font-size: 20px;
 }
 .blue {
     color: skyblue;
 }
-.pink{
-    color:  rgb(255, 192, 203) ;
+
+.pink {
+    color: rgb(255,192,203);
 }
-html {
-    font-size: 20px;
-}
+
 h1 {
-    font-family: "Josefin Sans",sans-serif;
+    font-family: "Josefin Sans",sans-serlt;
     font-size: 2rem;
     letter-spacing: 1.2em;
-    text-shadow: 1px 1px 4px gray;
-    border-bottom: solid 3px rgb(115, 115, 114);
+    text-shadow: 2px 2px 5px lightgray;
+    border-bottom: 3px solid rgb(115,115,114);
 }
-.bold {
+
+#basic p {
     font-weight: bold;
 }
